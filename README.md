@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/rishaband/alienshooter/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">An animation that is created using the processing.py library in python. It leverages the use of concepts such object orientated programming and processing. Alien Shooter is built using the PyGame Library which provides essential functionality for creating 2D obstacles and player movement. This game includes collision detection bullet-interaction and player movement.</p>
+<p id="description">An animation that is created using the processing.py library in python. It leverages the use of concepts such object orientated programming and processing. Alien Shooter is built using the PyGame Library which provides essential functionality for creating 2D obstacles and player movement. This game includes collision detection, bullet-interaction, and player movement.</p>
 
 <h2>Project Screenshots:</h2>
 
