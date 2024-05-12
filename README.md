@@ -1,6 +1,6 @@
 <h1 align="center" id="title">ShooterPlus</h1>
 
-<p align="center"><img src="https://socialify.git.ci/rishaband/alienshooter/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/rishaband/shooterplus/image?font=KoHo&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="shooterplus" width="640" height="320" /></p>
 
 <p id="description">An interactive video game that is created using the PyGame library in python. It leverages the use of concepts such object orientated programming and processing. PyGame provides essential functionality for creating 2D obstacles and player movement. This game includes collision detection, bullet-interaction, and player movement.</p>
 
