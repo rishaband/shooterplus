@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Alien Shooter</h1>
+<h1 align="center" id="title">ShooterPlus</h1>
 
 <p align="center"><img src="https://socialify.git.ci/rishaband/alienshooter/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;theme=Dark" alt="project-image"></p>
 
